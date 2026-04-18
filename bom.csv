@@ -1,11 +1,13 @@
-1k Ohm Resistor
-470 Ohm Resistor
-100K Trimpot Trimmer Potentiometer
-40x1 Pin 2.54mm Male Berg Strip
-5mm Green LED
-5mm Blue LED
-5mm Red Diffused LED
-0.1uF 50V Ceramic Capacitor
-100uF 25V Electrolytic Capacitor
-555 Timer IC
-CD4017 Decade Counter IC
+Item,Description,Quantity,Price
+1k Ohm Resistor,Resistor,1,
+470 Ohm Resistor,Resistor,1,
+100K Trimpot,Trimmer Potentiometer,1,
+40x1 Pin 2.54mm Male Berg Strip,Connector,1,
+5mm Green LED,LED,1,
+5mm Blue LED,LED,1,
+5mm Red Diffused LED,LED,1,
+0.1uF 50V Ceramic Capacitor,Capacitor,1,
+100uF 25V Electrolytic Capacitor,Capacitor,1,
+555 Timer IC,Integrated Circuit,1,
+CD4017 Decade Counter IC,Integrated Circuit,1,
+Total,,,10 USD
