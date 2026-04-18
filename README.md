@@ -4,6 +4,12 @@
 
 See the blinky board in action!
 https://drive.google.com/file/d/13Q_IYAYLXqSkWtDe8R8FHL-QoyvAvfza/view?usp=drive_link
+### Project Highlights
+
+* **Project Demo:** [See the blinky board in action!](https://google.com)
+* **Workshop:** Built during the **Build Guild Kolkata Workshop** hosted by **Hack Club**.
+* **Skills Gained:** Successfully learned how to solder effectively and assemble a complete hardware project from scratch.
+
 
 ---
 
