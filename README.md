@@ -7,6 +7,10 @@ https://drive.google.com/file/d/13Q_IYAYLXqSkWtDe8R8FHL-QoyvAvfza/view?usp=drive
 
 ---
 
+[View the full Bill of Materials (BOM)](./bom.csv)
+
+---
+
 ## Schematic:
 <img width="1169" height="827" alt="Schematic" src="https://github.com/user-attachments/assets/9e596296-fb50-40dd-bee2-7c504d42a003" />
 
